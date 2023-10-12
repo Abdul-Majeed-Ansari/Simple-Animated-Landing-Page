@@ -11,7 +11,7 @@ const Home = () => {
           <div className="col-md-6">
             <div className="brand-container">
               <h1 data-aos="slide-left">
-                <b>Abdul Majeed Ansari</b>
+                <b>Abdul Majeed</b>
               </h1>
               <p data-aos="slide-right">
                 FullStack <b>Developer</b> and YouTuber
